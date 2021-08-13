@@ -127,7 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
 .DS_Store
-config.py
-config.py
 secrets.py
